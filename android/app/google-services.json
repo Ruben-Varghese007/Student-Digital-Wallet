@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591379550849",
+    "project_id": "student-digital-wallet-51acf",
+    "storage_bucket": "student-digital-wallet-51acf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591379550849:android:b1fe1e4a8546f5e5f4b380",
+        "android_client_info": {
+          "package_name": "com.example.student_digital_wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsbSpdA5t3zURX3tbWTm0zfM6nfJNg05I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
